@@ -1,0 +1,145 @@
+EVENT,MARK,ATHLETE,COUNTRY,VENUE,Latitude,Longitude,DATE
+100 Metres,10.49,Florence GRIFFITH-JOYNER,USA,"Indianapolis, IN (USA)",39.768403,-86.158068,16 JUL 1988
+200 Metres,21.34,Florence GRIFFITH-JOYNER,USA,"Olympic Stadium, Jamsil, Seoul (KOR)",37.5158376,127.0727986,29 SEP 1988
+400 Metres,47.60,Marita KOCH,GDR,"Bruce Stadium, Canberra (AUS)",-35.2499912,149.1027036,06 OCT 1985
+800 Metres,1:53.28,Jarmila KRATOCHVÍLOVÁ,TCH,München (GER),48.1351253,11.5819806,26 JUL 1983
+1000 Metres,2:28.98,Svetlana MASTERKOVA,RUS,Bruxelles (BEL),50.8476424,4.3571696,23 AUG 1996
+1500 Metres,3:50.07,Genzebe DIBABA,ETH,"Stade Louis II, Monaco (MON)",43.7275817,7.4156038,17 JUL 2015
+1500 Metres,3:49.11 *,Faith KIPYEGON,KEN,"Stadio Luigi Ridolfi, Firenze (ITA)",43.7783792,11.2803596,02 JUN 2023
+One Mile,4:12.33,Sifan HASSAN,NED,"Stade Louis II, Monaco (MON)",43.7275817,7.4156038,12 JUL 2019
+2000 Metres,5:21.56,Francine NIYONSABA,BDI,"Sports Park Mladost, Zagreb (CRO)",45.7826497,15.9429987,14 SEP 2021
+3000 Metres,8:06.11,Junxia WANG,CHN,Beijing (CHN),39.904211,116.407395,13 SEP 1993
+5000 Metres,14:06.62,Letesenbet GIDEY,ETH,"Estadio de Atletismo del Turia, Valencia (ESP)",39.47721,-0.39313,07 OCT 2020
+5 Kilometres,14:29 Wo,Senbere TEFERI,ETH,Herzogenaurach (GER),49.5682987,10.8828577,12 SEP 2021
+5 Kilometres,14:19 Mx,Ejgayehu TAYE,ETH,Barcelona (ESP),41.3873974,2.168568,31 DEC 2021
+"10,000 Metres",29:01.03,Letesenbet GIDEY,ETH,"Blankers-Koen Stadion, Hengelo (NED)",52.2530971,6.8065023,08 JUN 2021
+10 Kilometres,30:01 Wo,Agnes Jebet TIROP,KEN,Herzogenaurach (GER),49.5682987,10.8828577,12 SEP 2021
+10 Kilometres,29:38 Mx *,Kalkidan GEZAHEGNE,BRN,Genève (SUI),46.2043907,6.1431577,03 OCT 2021
+10 Kilometres,29:14 Mx,Yalemzerf YEHUALAW,ETH,Castellón (ESP),39.9837993,0.0209881,27 FEB 2022
+One Hour,18930,Sifan HASSAN,NED,"Boudewijnstadion, Bruxelles (BEL)",50.8957028,4.3340679,04 SEP 2020
+Half Marathon,1:05:16 Wo,Peres JEPCHIRCHIR,KEN,Gdynia (POL),54.5188898,18.5305409,17 OCT 2020
+Half Marathon,1:02:52 Mx,Letesenbet GIDEY,ETH,Valencia (ESP),39.4699075,-0.3762881,24 OCT 2021
+Marathon,2:14:04 Mx,Brigid KOSGEI,KEN,"Chicago, IL (USA)",41.8781136,-87.6297982,13 OCT 2019
+Marathon,2:17:01 Wo,Mary Jepkosgei KEITANY,KEN,London (GBR),51.5072178,-0.1275862,23 APR 2017
+50 Kilometres,2:59:54 Mx,Desiree LINDEN,USA,"Dorena Lake, Oregon (USA)",43.7731759,-122.9224375,13 APR 2021
+50 Kilometres,3:00:30 Wo,Emane SEIFU,ETH,Gqeberha (RSA),-33.9608369,25.6022423,26 FEB 2023
+100 Kilometres,6:33:11 Mx,Tomoe ABE,JPN,Lake Saroma (JPN),44.1312174,143.8024769,25 JUN 2000
+3000 Metres Steeplechase,8:44.32,Beatrice CHEPKOECH,KEN,"Stade Louis II, Monaco (MON)",43.7275817,7.4156038,20 JUL 2018
+100 Metres Hurdles,12.12,Tobi AMUSAN,NGR,"Hayward Field, Eugene, OR (USA)",44.0424068,-123.070692,24 JUL 2022
+400 Metres Hurdles,50.68,Sydney MCLAUGHLIN,USA,"Hayward Field, Eugene, OR (USA)",44.0424068,-123.070692,22 JUL 2022
+High Jump,2.09,Stefka KOSTADINOVA,BUL,"Stadio Olimpico, Roma (ITA)",41.9339383,12.4547979,30 AUG 1987
+Pole Vault,5.06,Yelena ISINBAYEVA,RUS,"Letzigrund, Zürich (SUI)",47.3826664,8.5038076,28 AUG 2009
+Long Jump,7.52,Galina CHISTYAKOVA,URS,Leningrad (URS),59.9342596,30.3350941,11 JUN 1988
+Triple Jump,15.74 (i),Yulimar ROJAS,VEN,"Štark Arena, Beograd (SRB)",44.8141461,20.4212894,20 MAR 2022
+Shot Put,22.63,Natalya LISOVSKAYA,URS,Moskva (URS),55.755826,37.6173,07 JUN 1987
+Discus Throw,76.80,Gabriele REINSCH,GDR,Neubrandenburg (GDR),53.5678292,13.2779269,09 JUL 1988
+Hammer Throw,82.98,Anita WŁODARCZYK,POL,"Stadion PGE Narodowy, Warszawa (POL)",52.2392703,21.0450811,28 AUG 2016
+Javelin Throw,72.28,Barbora ŠPOTÁKOVÁ,CZE,"Gottlieb-Daimler Stadion, Stuttgart (GER)",48.7922577,9.23208,13 SEP 2008
+Heptathlon,7291,Jackie JOYNER-KERSEE,USA,"Olympic Stadium, Jamsil, Seoul (KOR)",37.5158376,127.0727986,24 SEP 1988
+Decathlon,8358,Austra SKUJYTĖ,LTU,"Columbia, MO (USA)",38.9517053,-92.3340724,15 APR 2005
+"10,000 Metres Race Walk",41:56.23,Nadezhda RYASHKINA,URS,"Seattle, WA (USA)",47.6062095,-122.3320708,24 JUL 1990
+"20,000 Metres Race Walk",1:26:52.3h,Olimpiada IVANOVA,RUS,Brisbane (AUS),-27.4704528,153.0260341,06 SEP 2001
+20 Kilometres Race Walk,1:23:49,Jiayu YANG,CHN,Huangshan (CHN),29.7151699,118.33866,20 MAR 2021
+35 Kilometres Race Walk,,,,,,,
+35 Kilometres Race Walk,,,,,,,
+50 Kilometres Race Walk,3:59:15,Hong LIU,CHN,Huangshan (CHN),29.7151699,118.33866,09 MAR 2019
+4x100 Metres Relay,40.82,United States,,,,,
+4x200 Metres Relay,1:27.46,United States Blue,,,,,
+4x400 Metres Relay,3:15.17,Soviet Union,,,,,
+4x800 Metres Relay,7:50.17,Soviet Union,,,,,
+4x1500 Metres Relay,16:27.02,Nike/Bowerman Track Club,,,,,
+Road Relay,2:11:41,PR of China,,,,,
+Distance Medley Relay,10:36.50,United States,,,,,
+Distance Medley Relay,10:33.85 *(i),United States,,,,,
+50 Metres,5.96 (i),Irina PRIVALOVA,RUS,Madrid (ESP),40.4167754,-3.7037902,09 FEB 1995
+60 Metres,6.92 (i),Irina PRIVALOVA,RUS,Madrid (ESP),40.4167754,-3.7037902,11 FEB 1993
+60 Metres,6.92 (i),Irina PRIVALOVA,RUS,Madrid (ESP),40.4167754,-3.7037902,09 FEB 1995
+200 Metres,21.87 (i),Merlene OTTEY,JAM,Liévin (FRA),50.417921,2.775222,13 FEB 1993
+400 Metres,49.26 (i),Femke BOL,NED,"Omnisport, Apeldoorn (NED)",52.2097108,5.9958037,19 FEB 2023
+800 Metres,1:55.82 (i),Jolanda ČEPLAK,SLO,"Ferry-Dusika-Halle, Wien (AUT)",48.2081743,16.3738189,03 MAR 2002
+1000 Metres,2:30.94 (i),Maria de Lurdes MUTOLA,MOZ,Stockholm (SWE),59.3293235,18.0685808,25 FEB 1999
+1500 Metres,3:53.09 (i),Gudaf TSEGAY,ETH,"Arena Stade Couvert, Liévin (FRA)",50.4109912,2.765853,09 FEB 2021
+One Mile,4:13.31 (i),Genzebe DIBABA,ETH,"Globe Arena, Stockholm (SWE)",59.2935725,18.0835501,17 FEB 2016
+3000 Metres,8:16.60 (i),Genzebe DIBABA,ETH,"Globe Arena, Stockholm (SWE)",59.2935725,18.0835501,06 FEB 2014
+5000 Metres,14:18.86 (i),Genzebe DIBABA,ETH,"Globe Arena, Stockholm (SWE)",59.2935725,18.0835501,19 FEB 2015
+50 Metres Hurdles,6.58 (i),Cornelia OSCHKENAT,GDR,Berlin (GER),52.5200066,13.404954,20 FEB 1988
+60 Metres Hurdles,7.68 (i),Susanna KALLUR,SWE,Karlsruhe (GER),49.0068901,8.4036527,10 FEB 2008
+High Jump,2.08 (i),Kajsa BERGQVIST,SWE,Arnstadt (GER),50.8354931,10.9478015,04 FEB 2006
+Pole Vault,5.02 (i),Jennifer SUHR,USA,"Albuquerque, NM (USA)",35.0843859,-106.650422,02 MAR 2013
+Long Jump,7.37 (i),Heike DRECHSLER,GDR,Wien (AUT),48.2081743,16.3738189,13 FEB 1988
+Shot Put,22.50 (i),Helena FIBINGEROVÁ,TCH,Jablonec (TCH),50.7220528,15.1703135,19 FEB 1977
+Pentathlon,5013 (i),Nataliya DOBRYNSKA,UKR,"Ataköy Arena, Istanbul (TUR)",40.9808541,28.856793,09 MAR 2012
+Pentathlon,5055 *(i),Nafissatou THIAM,BEL,"Ataköy Arena, Istanbul (TUR)",40.9808541,28.856793,03 MAR 2023
+3000 Metres Race Walk,11:40.33 (i),Claudia IOVAN,ROU,Bucureşti (ROU),44.4267674,26.1025384,30 JAN 1999
+4x200 Metres Relay,1:32.41 (i),Russia,,,,,
+4x400 Metres Relay,3:23.37 (i),Russia,,,,,
+4x800 Metres Relay,8:05.89 (i),United States,,,,,
+100 Metres,9.58,Usain BOLT,JAM,"Olympiastadion, Berlin (GER)",52.5146971,13.2394986,16 AUG 2009
+200 Metres,19.19,Usain BOLT,JAM,"Olympiastadion, Berlin (GER)",52.5146971,13.2394986,20 AUG 2009
+400 Metres,43.03,Wayde VAN NIEKERK,RSA,"Estádio Olímpico, Rio de Janeiro (BRA)",-22.8932749,-43.2923128,14 AUG 2016
+800 Metres,1:40.91,David RUDISHA,KEN,"Olympic Stadium, London (GBR)",51.5386705,-0.0164537,09 AUG 2012
+1000 Metres,2:11.96,Noah NGENY,KEN,Rieti (ITA),42.404509,12.8567281,05 SEP 1999
+1500 Metres,3:26.00,Hicham EL GUERROUJ,MAR,"Stadio Olimpico, Roma (ITA)",41.9339383,12.4547979,14 JUL 1998
+One Mile,3:43.13,Hicham EL GUERROUJ,MAR,"Stadio Olimpico, Roma (ITA)",41.9339383,12.4547979,07 JUL 1999
+2000 Metres,4:44.79,Hicham EL GUERROUJ,MAR,"Olympiastadion, Berlin (GER)",52.5146971,13.2394986,07 SEP 1999
+3000 Metres,7:20.67,Daniel KOMEN,KEN,Rieti (ITA),42.404509,12.8567281,01 SEP 1996
+5000 Metres,12:35.36,Joshua CHEPTEGEI,UGA,"Stade Louis II, Monaco (MON)",43.7275817,7.4156038,14 AUG 2020
+5 Kilometres,12:49,Berihu AREGAWI,ETH,Barcelona (ESP),41.3873974,2.168568,31 DEC 2021
+"10,000 Metres",26:11.00,Joshua CHEPTEGEI,UGA,"Estadio de Atletismo del Turia, Valencia (ESP)",39.47721,-0.39313,07 OCT 2020
+10 Kilometres,26:24,Rhonex KIPRUTO,KEN,Valencia (ESP),39.4699075,-0.3762881,12 JAN 2020
+One Hour,21330,Mo FARAH,GBR,"Boudewijnstadion, Bruxelles (BEL)",50.8957028,4.3340679,04 SEP 2020
+Half Marathon,57:31,Jacob KIPLIMO,UGA,Lisboa (POR),38.7222524,-9.1393366,21 NOV 2021
+Marathon,2:01:09,Eliud KIPCHOGE,KEN,Berlin (GER),52.5200066,13.404954,25 SEP 2022
+50 Kilometres,2:40:13,Stephen MOKOKA,RSA,Gqeberha (RSA),-33.9608369,25.6022423,06 MAR 2022
+50 Kilometres,2:38:43 *,CJ ALBERTSON,USA,"San Francisco, CA (USA)",37.7749295,-122.4194155,08 OCT 2022
+100 Kilometres,6:09:14,Nao KAZAMI,JPN,Lake Saroma (JPN),44.1312174,143.8024769,24 JUN 2018
+100 Kilometres,6:05:35 *,Aleksandr SOROKIN,LTU,Vilnius (LTU),54.6871555,25.2796514,14 MAY 2023
+3000 Metres Steeplechase,7:53.63,Saif Saaeed SHAHEEN,QAT,"Boudewijnstadion, Bruxelles (BEL)",50.8957028,4.3340679,03 SEP 2004
+110 Metres Hurdles,12.80,Aries MERRITT,USA,"Boudewijnstadion, Bruxelles (BEL)",50.8957028,4.3340679,07 SEP 2012
+400 Metres Hurdles,45.94,Karsten WARHOLM,NOR,"National Stadium, Tokyo (JPN)",35.6778241,139.7145409,03 AUG 2021
+High Jump,2.45,Javier SOTOMAYOR,CUB,Salamanca (ESP),40.9701039,-5.6635397,27 JUL 1993
+Pole Vault,6.22 (i),Armand DUPLANTIS,SWE,"Maison des Sports, Clermont-Ferrand (FRA)",45.7859628,3.0864509,25 FEB 2023
+Long Jump,8.95,Mike POWELL,USA,"National Stadium, Tokyo (JPN)",35.6778241,139.7145409,30 AUG 1991
+Triple Jump,18.29,Jonathan EDWARDS,GBR,"Ullevi Stadium, Göteborg (SWE)",57.7059006,11.9873108,07 AUG 1995
+Shot Put,23.37,Ryan CROUSER,USA,"Hayward Field, Eugene, OR (USA)",44.0424068,-123.070692,18 JUN 2021
+Shot Put,23.56 *,Ryan CROUSER,USA,"Drake Stadium, Los Angeles, CA (USA)",34.071966,-118.4485221,27 MAY 2023
+Discus Throw,74.08,Jürgen SCHULT,GDR,Neubrandenburg (GDR),53.5678292,13.2779269,06 JUN 1986
+Hammer Throw,86.74,Yuriy SEDYKH,URS,"Neckarstadion, Stuttgart (GER)",48.7922577,9.23208,30 AUG 1986
+Javelin Throw,98.48,Jan ŽELEZNÝ,CZE,Jena (GER),50.927054,11.5892372,25 MAY 1996
+Decathlon,9126,Kevin MAYER,FRA,"Stade Pierre Paul Bernard, Talence (FRA)",44.7916034,-0.5977913,16 SEP 2018
+"20,000 Metres Race Walk",1:17:25.6h,Bernardo SEGURA,MEX,Fana (NOR),60.2630972,5.3452521,07 MAY 1994
+20 Kilometres Race Walk,1:16:36,Yusuke SUZUKI,JPN,Nomi (JPN),36.4468791,136.5540708,15 MAR 2015
+"30,000 Metres Race Walk",2:01:44.1h,Maurizio DAMILANO,ITA,Cuneo (ITA),44.3844766,7.5426711,03 OCT 1992
+"50,000 Metres Race Walk",3:35:27.2h,Yohann DINIZ,FRA,Reims (FRA),49.258329,4.031696,12 MAR 2011
+50 Kilometres Race Walk,3:32:33,Yohann DINIZ,FRA,"Letzigrund, Zürich (SUI)",47.3826664,8.5038076,15 AUG 2014
+4x100 Metres Relay,36.84,Jamaica,,,,,
+4x200 Metres Relay,1:18.63,Jamaica,,,,,
+4x400 Metres Relay,2:54.29,United States,,,,,
+4x800 Metres Relay,7:02.43,Kenya,,,,,
+4x1500 Metres Relay,14:22.22,Kenya,,,,,
+Road Relay,1:57:06,Kenya,,,,,
+Distance Medley Relay,9:15.50,United States,,,,,
+50 Metres,5.56 (i),Donovan BAILEY,CAN,"Reno, NV (USA)",39.529919,-119.8142691,09 FEB 1996
+60 Metres,6.34 (i),Christian COLEMAN,USA,"Albuquerque, NM (USA)",35.0843859,-106.650422,18 FEB 2018
+200 Metres,19.92 (i),Frank FREDERICKS,NAM,Liévin (FRA),50.417921,2.775222,18 FEB 1996
+400 Metres,44.57 (i),Kerron CLEMENT,USA,"Fayetteville, AR (USA)",36.0626579,-94.1605839,12 MAR 2005
+800 Metres,1:42.67 (i),Wilson KIPKETER,DEN,"Palais Omnisports de Paris-Bercy, Paris (FRA)",48.8385379,2.3785842,09 MAR 1997
+1000 Metres,2:14.20 (i),Ayanleh SOULEIMAN,DJI,"Globe Arena, Stockholm (SWE)",59.2935725,18.0835501,17 FEB 2016
+1500 Metres,3:30.60 (i),Jakob INGEBRIGTSEN,NOR,"Arena Stade Couvert, Liévin (FRA)",50.4109912,2.765853,17 FEB 2022
+One Mile,3:47.01 (i),Yomif KEJELCHA,ETH,"Boston, MA (USA)",42.3600825,-71.0588801,03 MAR 2019
+3000 Metres,7:24.90 (i),Daniel KOMEN,KEN,Budapest (HUN),47.497912,19.040235,06 FEB 1998
+3000 Metres,7:23.81 *(i),Lamecha GIRMA,ETH,"Arena Stade Couvert, Liévin (FRA)",50.4109912,2.765853,15 FEB 2023
+5000 Metres,12:49.60 (i),Kenenisa BEKELE,ETH,"National Indoor Arena, Birmingham (GBR)",52.479777,-1.915044,20 FEB 2004
+50 Metres Hurdles,6.25 (i),Mark MCKOY,CAN,Kobe (JPN),34.6900806,135.1956311,05 MAR 1986
+60 Metres Hurdles,7.29 (i),Grant HOLLOWAY,USA,"Gallur, Madrid (ESP)",40.3982114,-3.7391426,24 FEB 2021
+60 Metres Hurdles,7.29 (i),Grant HOLLOWAY,USA,"Štark Arena, Beograd (SRB)",44.8141461,20.4212894,20 MAR 2022
+High Jump,2.43 (i),Javier SOTOMAYOR,CUB,"Budapest Sportcsarnok, Budapest (HUN)",47.5018695,19.1057073,04 MAR 1989
+Long Jump,8.79 (i),Carl LEWIS,USA,"New York, NY (USA)",40.7127753,-74.0059728,27 JAN 1984
+Triple Jump,18.07 (i),Hugues Fabrice ZANGO,BUR,"Stadium Jean-Pellez, Aubiére (FRA)",45.7578995,3.1069021,16 JAN 2021
+Shot Put,22.82 (i),Ryan CROUSER,USA,"Randal Tyson Indoor Center, Fayetteville, AR (USA)",36.0497746,-94.1843307,24 JAN 2021
+Heptathlon,6645 (i),Ashton EATON,USA,"Ataköy Arena, Istanbul (TUR)",40.9808541,28.856793,10 MAR 2012
+5000 Metres Race Walk,18:07.08 (i),Mikhail SHCHENNIKOV,RUS,Moskva (RUS),55.755826,37.6173,14 FEB 1995
+4x200 Metres Relay,1:22.11 (i),Great Britain & NI,,,,,
+4x400 Metres Relay,3:01.51 (i),Houston,,,,,
+4x800 Metres Relay,7:11.30 (i),HOKA NJ / NY TC,,,,,
+4x400 Metres Relay Mixed,3:09.34,United States,,,,,
