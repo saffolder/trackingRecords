@@ -1,0 +1,34 @@
+<!-- Samuel Affolder 06/06/2023
+    trackingRecords v1.0
+    main homepage-->
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <title>Tracking Records</title>
+        <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+        <link href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css" rel="stylesheet">
+        <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>
+        <script src="https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js"></script>
+        <link rel="stylesheet" href="css/styles.css">
+        <script src="js/main.js"></script>
+    </head>
+
+    <body>
+        <div id="sidebar">
+            <div id="title"></div>
+            <div id="data">
+                <h2>Data Sources:</h2>
+                <p><a href="https://worldathletics.org/records/by-category/world-records">World Athletics</a></p>
+            </div>
+        </div>
+        <div id="record-info" class="hidden">
+            <button id="remove">x</button>
+            <div><p><b>Event: </b></p><p id="event"></p></div>
+            <div><p><b>Name: </b></p><p id="athlete"></p></div>
+            <div><p ><b>Performance: </b></p><p id="mark"></p></div>
+            <div><p><b>Date: </b></p><p id="date"></p></div>
+        </div>
+        <div id="map"></div>
+    </body>
+</html>
