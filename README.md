@@ -25,6 +25,7 @@ Web map showing the locations of the top ten performances in each Athletics even
 
 **v1.2 Make Accessable**
 - Host on Google
+- Make functional on mobile
 
 **v2.0 Logical Refinements**
 - Only get the top ten individuals/teams of each event, no repeat people
