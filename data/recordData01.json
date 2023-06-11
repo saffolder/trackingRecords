@@ -1,0 +1,1442 @@
+[
+ {
+   "EVENT": "100 Metres",
+   "MARK": "10.49",
+   "ATHLETE": "Florence GRIFFITH-JOYNER",
+   "COUNTRY": "USA",
+   "VENUE": "Indianapolis, IN (USA)",
+   "Latitude": 39.768403,
+   "Longitude": -86.158068,
+   "DATE": "16 JUL 1988"
+ },
+ {
+   "EVENT": "200 Metres",
+   "MARK": "21.34",
+   "ATHLETE": "Florence GRIFFITH-JOYNER",
+   "COUNTRY": "USA",
+   "VENUE": "Olympic Stadium, Jamsil, Seoul (KOR)",
+   "Latitude": 37.5158376,
+   "Longitude": 127.0727986,
+   "DATE": "29 SEP 1988"
+ },
+ {
+   "EVENT": "400 Metres",
+   "MARK": "47.60",
+   "ATHLETE": "Marita KOCH",
+   "COUNTRY": "GDR",
+   "VENUE": "Bruce Stadium, Canberra (AUS)",
+   "Latitude": -35.2499912,
+   "Longitude": 149.1027036,
+   "DATE": "06 OCT 1985"
+ },
+ {
+   "EVENT": "800 Metres",
+   "MARK": "1:53.28",
+   "ATHLETE": "Jarmila KRATOCHVÍLOVÁ",
+   "COUNTRY": "TCH",
+   "VENUE": "München (GER)",
+   "Latitude": 48.1351253,
+   "Longitude": 11.5819806,
+   "DATE": "26 JUL 1983"
+ },
+ {
+   "EVENT": "1000 Metres",
+   "MARK": "2:28.98",
+   "ATHLETE": "Svetlana MASTERKOVA",
+   "COUNTRY": "RUS",
+   "VENUE": "Bruxelles (BEL)",
+   "Latitude": 50.8476424,
+   "Longitude": 4.3571696,
+   "DATE": "23 AUG 1996"
+ },
+ {
+   "EVENT": "1500 Metres",
+   "MARK": "3:50.07",
+   "ATHLETE": "Genzebe DIBABA",
+   "COUNTRY": "ETH",
+   "VENUE": "Stade Louis II, Monaco (MON)",
+   "Latitude": 43.7275817,
+   "Longitude": 7.4156038,
+   "DATE": "17 JUL 2015"
+ },
+ {
+   "EVENT": "1500 Metres",
+   "MARK": "3:49.11 *",
+   "ATHLETE": "Faith KIPYEGON",
+   "COUNTRY": "KEN",
+   "VENUE": "Stadio Luigi Ridolfi, Firenze (ITA)",
+   "Latitude": 43.7783792,
+   "Longitude": 11.2803596,
+   "DATE": "02 JUN 2023"
+ },
+ {
+   "EVENT": "One Mile",
+   "MARK": "4:12.33",
+   "ATHLETE": "Sifan HASSAN",
+   "COUNTRY": "NED",
+   "VENUE": "Stade Louis II, Monaco (MON)",
+   "Latitude": 43.7275817,
+   "Longitude": 7.4156038,
+   "DATE": "12 JUL 2019"
+ },
+ {
+   "EVENT": "2000 Metres",
+   "MARK": "5:21.56",
+   "ATHLETE": "Francine NIYONSABA",
+   "COUNTRY": "BDI",
+   "VENUE": "Sports Park Mladost, Zagreb (CRO)",
+   "Latitude": 45.7826497,
+   "Longitude": 15.9429987,
+   "DATE": "14 SEP 2021"
+ },
+ {
+   "EVENT": "3000 Metres",
+   "MARK": "8:06.11",
+   "ATHLETE": "Junxia WANG",
+   "COUNTRY": "CHN",
+   "VENUE": "Beijing (CHN)",
+   "Latitude": 39.904211,
+   "Longitude": 116.407395,
+   "DATE": "13 SEP 1993"
+ },
+ {
+   "EVENT": "5000 Metres",
+   "MARK": "14:06.62",
+   "ATHLETE": "Letesenbet GIDEY",
+   "COUNTRY": "ETH",
+   "VENUE": "Estadio de Atletismo del Turia, Valencia (ESP)",
+   "Latitude": 39.47721,
+   "Longitude": -0.39313,
+   "DATE": "07 OCT 2020"
+ },
+ {
+   "EVENT": "5 Kilometres",
+   "MARK": "14:29 Wo",
+   "ATHLETE": "Senbere TEFERI",
+   "COUNTRY": "ETH",
+   "VENUE": "Herzogenaurach (GER)",
+   "Latitude": 49.5682987,
+   "Longitude": 10.8828577,
+   "DATE": "12 SEP 2021"
+ },
+ {
+   "EVENT": "5 Kilometres",
+   "MARK": "14:19 Mx",
+   "ATHLETE": "Ejgayehu TAYE",
+   "COUNTRY": "ETH",
+   "VENUE": "Barcelona (ESP)",
+   "Latitude": 41.3873974,
+   "Longitude": 2.168568,
+   "DATE": "31 DEC 2021"
+ },
+ {
+   "EVENT": "10,000 Metres",
+   "MARK": "29:01.03",
+   "ATHLETE": "Letesenbet GIDEY",
+   "COUNTRY": "ETH",
+   "VENUE": "Blankers-Koen Stadion, Hengelo (NED)",
+   "Latitude": 52.2530971,
+   "Longitude": 6.8065023,
+   "DATE": "08 JUN 2021"
+ },
+ {
+   "EVENT": "10 Kilometres",
+   "MARK": "30:01 Wo",
+   "ATHLETE": "Agnes Jebet TIROP",
+   "COUNTRY": "KEN",
+   "VENUE": "Herzogenaurach (GER)",
+   "Latitude": 49.5682987,
+   "Longitude": 10.8828577,
+   "DATE": "12 SEP 2021"
+ },
+ {
+   "EVENT": "10 Kilometres",
+   "MARK": "29:38 Mx *",
+   "ATHLETE": "Kalkidan GEZAHEGNE",
+   "COUNTRY": "BRN",
+   "VENUE": "Genève (SUI)",
+   "Latitude": 46.2043907,
+   "Longitude": 6.1431577,
+   "DATE": "03 OCT 2021"
+ },
+ {
+   "EVENT": "10 Kilometres",
+   "MARK": "29:14 Mx",
+   "ATHLETE": "Yalemzerf YEHUALAW",
+   "COUNTRY": "ETH",
+   "VENUE": "Castellón (ESP)",
+   "Latitude": 39.9837993,
+   "Longitude": 0.0209881,
+   "DATE": "27 FEB 2022"
+ },
+ {
+   "EVENT": "One Hour",
+   "MARK": "18930",
+   "ATHLETE": "Sifan HASSAN",
+   "COUNTRY": "NED",
+   "VENUE": "Boudewijnstadion, Bruxelles (BEL)",
+   "Latitude": 50.8957028,
+   "Longitude": 4.3340679,
+   "DATE": "04 SEP 2020"
+ },
+ {
+   "EVENT": "Half Marathon",
+   "MARK": "1:05:16 Wo",
+   "ATHLETE": "Peres JEPCHIRCHIR",
+   "COUNTRY": "KEN",
+   "VENUE": "Gdynia (POL)",
+   "Latitude": 54.5188898,
+   "Longitude": 18.5305409,
+   "DATE": "17 OCT 2020"
+ },
+ {
+   "EVENT": "Half Marathon",
+   "MARK": "1:02:52 Mx",
+   "ATHLETE": "Letesenbet GIDEY",
+   "COUNTRY": "ETH",
+   "VENUE": "Valencia (ESP)",
+   "Latitude": 39.4699075,
+   "Longitude": -0.3762881,
+   "DATE": "24 OCT 2021"
+ },
+ {
+   "EVENT": "Marathon",
+   "MARK": "2:14:04 Mx",
+   "ATHLETE": "Brigid KOSGEI",
+   "COUNTRY": "KEN",
+   "VENUE": "Chicago, IL (USA)",
+   "Latitude": 41.8781136,
+   "Longitude": -87.6297982,
+   "DATE": "13 OCT 2019"
+ },
+ {
+   "EVENT": "Marathon",
+   "MARK": "2:17:01 Wo",
+   "ATHLETE": "Mary Jepkosgei KEITANY",
+   "COUNTRY": "KEN",
+   "VENUE": "London (GBR)",
+   "Latitude": 51.5072178,
+   "Longitude": -0.1275862,
+   "DATE": "23 APR 2017"
+ },
+ {
+   "EVENT": "50 Kilometres",
+   "MARK": "2:59:54 Mx",
+   "ATHLETE": "Desiree LINDEN",
+   "COUNTRY": "USA",
+   "VENUE": "Dorena Lake, Oregon (USA)",
+   "Latitude": 43.7731759,
+   "Longitude": -122.9224375,
+   "DATE": "13 APR 2021"
+ },
+ {
+   "EVENT": "50 Kilometres",
+   "MARK": "3:00:30 Wo",
+   "ATHLETE": "Emane SEIFU",
+   "COUNTRY": "ETH",
+   "VENUE": "Gqeberha (RSA)",
+   "Latitude": -33.9608369,
+   "Longitude": 25.6022423,
+   "DATE": "26 FEB 2023"
+ },
+ {
+   "EVENT": "100 Kilometres",
+   "MARK": "6:33:11 Mx",
+   "ATHLETE": "Tomoe ABE",
+   "COUNTRY": "JPN",
+   "VENUE": "Lake Saroma (JPN)",
+   "Latitude": 44.1312174,
+   "Longitude": 143.8024769,
+   "DATE": "25 JUN 2000"
+ },
+ {
+   "EVENT": "3000 Metres Steeplechase",
+   "MARK": "8:44.32",
+   "ATHLETE": "Beatrice CHEPKOECH",
+   "COUNTRY": "KEN",
+   "VENUE": "Stade Louis II, Monaco (MON)",
+   "Latitude": 43.7275817,
+   "Longitude": 7.4156038,
+   "DATE": "20 JUL 2018"
+ },
+ {
+   "EVENT": "100 Metres Hurdles",
+   "MARK": "12.12",
+   "ATHLETE": "Tobi AMUSAN",
+   "COUNTRY": "NGR",
+   "VENUE": "Hayward Field, Eugene, OR (USA)",
+   "Latitude": 44.0424068,
+   "Longitude": -123.070692,
+   "DATE": "24 JUL 2022"
+ },
+ {
+   "EVENT": "400 Metres Hurdles",
+   "MARK": "50.68",
+   "ATHLETE": "Sydney MCLAUGHLIN",
+   "COUNTRY": "USA",
+   "VENUE": "Hayward Field, Eugene, OR (USA)",
+   "Latitude": 44.0424068,
+   "Longitude": -123.070692,
+   "DATE": "22 JUL 2022"
+ },
+ {
+   "EVENT": "High Jump",
+   "MARK": "2.09",
+   "ATHLETE": "Stefka KOSTADINOVA",
+   "COUNTRY": "BUL",
+   "VENUE": "Stadio Olimpico, Roma (ITA)",
+   "Latitude": 41.9339383,
+   "Longitude": 12.4547979,
+   "DATE": "30 AUG 1987"
+ },
+ {
+   "EVENT": "Pole Vault",
+   "MARK": "5.06",
+   "ATHLETE": "Yelena ISINBAYEVA",
+   "COUNTRY": "RUS",
+   "VENUE": "Letzigrund, Zürich (SUI)",
+   "Latitude": 47.3826664,
+   "Longitude": 8.5038076,
+   "DATE": "28 AUG 2009"
+ },
+ {
+   "EVENT": "Long Jump",
+   "MARK": "7.52",
+   "ATHLETE": "Galina CHISTYAKOVA",
+   "COUNTRY": "URS",
+   "VENUE": "Leningrad (URS)",
+   "Latitude": 59.9342596,
+   "Longitude": 30.3350941,
+   "DATE": "11 JUN 1988"
+ },
+ {
+   "EVENT": "Triple Jump",
+   "MARK": "15.74 (i)",
+   "ATHLETE": "Yulimar ROJAS",
+   "COUNTRY": "VEN",
+   "VENUE": "Štark Arena, Beograd (SRB)",
+   "Latitude": 44.8141461,
+   "Longitude": 20.4212894,
+   "DATE": "20 MAR 2022"
+ },
+ {
+   "EVENT": "Shot Put",
+   "MARK": "22.63",
+   "ATHLETE": "Natalya LISOVSKAYA",
+   "COUNTRY": "URS",
+   "VENUE": "Moskva (URS)",
+   "Latitude": 55.755826,
+   "Longitude": 37.6173,
+   "DATE": "07 JUN 1987"
+ },
+ {
+   "EVENT": "Discus Throw",
+   "MARK": "76.80",
+   "ATHLETE": "Gabriele REINSCH",
+   "COUNTRY": "GDR",
+   "VENUE": "Neubrandenburg (GDR)",
+   "Latitude": 53.5678292,
+   "Longitude": 13.2779269,
+   "DATE": "09 JUL 1988"
+ },
+ {
+   "EVENT": "Hammer Throw",
+   "MARK": "82.98",
+   "ATHLETE": "Anita WŁODARCZYK",
+   "COUNTRY": "POL",
+   "VENUE": "Stadion PGE Narodowy, Warszawa (POL)",
+   "Latitude": 52.2392703,
+   "Longitude": 21.0450811,
+   "DATE": "28 AUG 2016"
+ },
+ {
+   "EVENT": "Javelin Throw",
+   "MARK": "72.28",
+   "ATHLETE": "Barbora ŠPOTÁKOVÁ",
+   "COUNTRY": "CZE",
+   "VENUE": "Gottlieb-Daimler Stadion, Stuttgart (GER)",
+   "Latitude": 48.7922577,
+   "Longitude": 9.23208,
+   "DATE": "13 SEP 2008"
+ },
+ {
+   "EVENT": "Heptathlon",
+   "MARK": "7291",
+   "ATHLETE": "Jackie JOYNER-KERSEE",
+   "COUNTRY": "USA",
+   "VENUE": "Olympic Stadium, Jamsil, Seoul (KOR)",
+   "Latitude": 37.5158376,
+   "Longitude": 127.0727986,
+   "DATE": "24 SEP 1988"
+ },
+ {
+   "EVENT": "Decathlon",
+   "MARK": "8358",
+   "ATHLETE": "Austra SKUJYTĖ",
+   "COUNTRY": "LTU",
+   "VENUE": "Columbia, MO (USA)",
+   "Latitude": 38.9517053,
+   "Longitude": -92.3340724,
+   "DATE": "15 APR 2005"
+ },
+ {
+   "EVENT": "10,000 Metres Race Walk",
+   "MARK": "41:56.23",
+   "ATHLETE": "Nadezhda RYASHKINA",
+   "COUNTRY": "URS",
+   "VENUE": "Seattle, WA (USA)",
+   "Latitude": 47.6062095,
+   "Longitude": -122.3320708,
+   "DATE": "24 JUL 1990"
+ },
+ {
+   "EVENT": "20,000 Metres Race Walk",
+   "MARK": "1:26:52.3h",
+   "ATHLETE": "Olimpiada IVANOVA",
+   "COUNTRY": "RUS",
+   "VENUE": "Brisbane (AUS)",
+   "Latitude": -27.4704528,
+   "Longitude": 153.0260341,
+   "DATE": "06 SEP 2001"
+ },
+ {
+   "EVENT": "20 Kilometres Race Walk",
+   "MARK": "1:23:49",
+   "ATHLETE": "Jiayu YANG",
+   "COUNTRY": "CHN",
+   "VENUE": "Huangshan (CHN)",
+   "Latitude": 29.7151699,
+   "Longitude": 118.33866,
+   "DATE": "20 MAR 2021"
+ },
+ {
+   "EVENT": "35 Kilometres Race Walk",
+   "MARK": "",
+   "ATHLETE": "",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "35 Kilometres Race Walk",
+   "MARK": "",
+   "ATHLETE": "",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "50 Kilometres Race Walk",
+   "MARK": "3:59:15",
+   "ATHLETE": "Hong LIU",
+   "COUNTRY": "CHN",
+   "VENUE": "Huangshan (CHN)",
+   "Latitude": 29.7151699,
+   "Longitude": 118.33866,
+   "DATE": "09 MAR 2019"
+ },
+ {
+   "EVENT": "4x100 Metres Relay",
+   "MARK": "40.82",
+   "ATHLETE": "United States",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x200 Metres Relay",
+   "MARK": "1:27.46",
+   "ATHLETE": "United States Blue",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x400 Metres Relay",
+   "MARK": "3:15.17",
+   "ATHLETE": "Soviet Union",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x800 Metres Relay",
+   "MARK": "7:50.17",
+   "ATHLETE": "Soviet Union",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x1500 Metres Relay",
+   "MARK": "16:27.02",
+   "ATHLETE": "Nike/Bowerman Track Club",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "Road Relay",
+   "MARK": "2:11:41",
+   "ATHLETE": "PR of China",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "Distance Medley Relay",
+   "MARK": "10:36.50",
+   "ATHLETE": "United States",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "Distance Medley Relay",
+   "MARK": "10:33.85 *(i)",
+   "ATHLETE": "United States",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "50 Metres",
+   "MARK": "5.96 (i)",
+   "ATHLETE": "Irina PRIVALOVA",
+   "COUNTRY": "RUS",
+   "VENUE": "Madrid (ESP)",
+   "Latitude": 40.4167754,
+   "Longitude": -3.7037902,
+   "DATE": "09 FEB 1995"
+ },
+ {
+   "EVENT": "60 Metres",
+   "MARK": "6.92 (i)",
+   "ATHLETE": "Irina PRIVALOVA",
+   "COUNTRY": "RUS",
+   "VENUE": "Madrid (ESP)",
+   "Latitude": 40.4167754,
+   "Longitude": -3.7037902,
+   "DATE": "11 FEB 1993"
+ },
+ {
+   "EVENT": "60 Metres",
+   "MARK": "6.92 (i)",
+   "ATHLETE": "Irina PRIVALOVA",
+   "COUNTRY": "RUS",
+   "VENUE": "Madrid (ESP)",
+   "Latitude": 40.4167754,
+   "Longitude": -3.7037902,
+   "DATE": "09 FEB 1995"
+ },
+ {
+   "EVENT": "200 Metres",
+   "MARK": "21.87 (i)",
+   "ATHLETE": "Merlene OTTEY",
+   "COUNTRY": "JAM",
+   "VENUE": "Liévin (FRA)",
+   "Latitude": 50.417921,
+   "Longitude": 2.775222,
+   "DATE": "13 FEB 1993"
+ },
+ {
+   "EVENT": "400 Metres",
+   "MARK": "49.26 (i)",
+   "ATHLETE": "Femke BOL",
+   "COUNTRY": "NED",
+   "VENUE": "Omnisport, Apeldoorn (NED)",
+   "Latitude": 52.2097108,
+   "Longitude": 5.9958037,
+   "DATE": "19 FEB 2023"
+ },
+ {
+   "EVENT": "800 Metres",
+   "MARK": "1:55.82 (i)",
+   "ATHLETE": "Jolanda ČEPLAK",
+   "COUNTRY": "SLO",
+   "VENUE": "Ferry-Dusika-Halle, Wien (AUT)",
+   "Latitude": 48.2081743,
+   "Longitude": 16.3738189,
+   "DATE": "03 MAR 2002"
+ },
+ {
+   "EVENT": "1000 Metres",
+   "MARK": "2:30.94 (i)",
+   "ATHLETE": "Maria de Lurdes MUTOLA",
+   "COUNTRY": "MOZ",
+   "VENUE": "Stockholm (SWE)",
+   "Latitude": 59.3293235,
+   "Longitude": 18.0685808,
+   "DATE": "25 FEB 1999"
+ },
+ {
+   "EVENT": "1500 Metres",
+   "MARK": "3:53.09 (i)",
+   "ATHLETE": "Gudaf TSEGAY",
+   "COUNTRY": "ETH",
+   "VENUE": "Arena Stade Couvert, Liévin (FRA)",
+   "Latitude": 50.4109912,
+   "Longitude": 2.765853,
+   "DATE": "09 FEB 2021"
+ },
+ {
+   "EVENT": "One Mile",
+   "MARK": "4:13.31 (i)",
+   "ATHLETE": "Genzebe DIBABA",
+   "COUNTRY": "ETH",
+   "VENUE": "Globe Arena, Stockholm (SWE)",
+   "Latitude": 59.2935725,
+   "Longitude": 18.0835501,
+   "DATE": "17 FEB 2016"
+ },
+ {
+   "EVENT": "3000 Metres",
+   "MARK": "8:16.60 (i)",
+   "ATHLETE": "Genzebe DIBABA",
+   "COUNTRY": "ETH",
+   "VENUE": "Globe Arena, Stockholm (SWE)",
+   "Latitude": 59.2935725,
+   "Longitude": 18.0835501,
+   "DATE": "06 FEB 2014"
+ },
+ {
+   "EVENT": "5000 Metres",
+   "MARK": "14:18.86 (i)",
+   "ATHLETE": "Genzebe DIBABA",
+   "COUNTRY": "ETH",
+   "VENUE": "Globe Arena, Stockholm (SWE)",
+   "Latitude": 59.2935725,
+   "Longitude": 18.0835501,
+   "DATE": "19 FEB 2015"
+ },
+ {
+   "EVENT": "50 Metres Hurdles",
+   "MARK": "6.58 (i)",
+   "ATHLETE": "Cornelia OSCHKENAT",
+   "COUNTRY": "GDR",
+   "VENUE": "Berlin (GER)",
+   "Latitude": 52.5200066,
+   "Longitude": 13.404954,
+   "DATE": "20 FEB 1988"
+ },
+ {
+   "EVENT": "60 Metres Hurdles",
+   "MARK": "7.68 (i)",
+   "ATHLETE": "Susanna KALLUR",
+   "COUNTRY": "SWE",
+   "VENUE": "Karlsruhe (GER)",
+   "Latitude": 49.0068901,
+   "Longitude": 8.4036527,
+   "DATE": "10 FEB 2008"
+ },
+ {
+   "EVENT": "High Jump",
+   "MARK": "2.08 (i)",
+   "ATHLETE": "Kajsa BERGQVIST",
+   "COUNTRY": "SWE",
+   "VENUE": "Arnstadt (GER)",
+   "Latitude": 50.8354931,
+   "Longitude": 10.9478015,
+   "DATE": "04 FEB 2006"
+ },
+ {
+   "EVENT": "Pole Vault",
+   "MARK": "5.02 (i)",
+   "ATHLETE": "Jennifer SUHR",
+   "COUNTRY": "USA",
+   "VENUE": "Albuquerque, NM (USA)",
+   "Latitude": 35.0843859,
+   "Longitude": -106.650422,
+   "DATE": "02 MAR 2013"
+ },
+ {
+   "EVENT": "Long Jump",
+   "MARK": "7.37 (i)",
+   "ATHLETE": "Heike DRECHSLER",
+   "COUNTRY": "GDR",
+   "VENUE": "Wien (AUT)",
+   "Latitude": 48.2081743,
+   "Longitude": 16.3738189,
+   "DATE": "13 FEB 1988"
+ },
+ {
+   "EVENT": "Shot Put",
+   "MARK": "22.50 (i)",
+   "ATHLETE": "Helena FIBINGEROVÁ",
+   "COUNTRY": "TCH",
+   "VENUE": "Jablonec (TCH)",
+   "Latitude": 50.7220528,
+   "Longitude": 15.1703135,
+   "DATE": "19 FEB 1977"
+ },
+ {
+   "EVENT": "Pentathlon",
+   "MARK": "5013 (i)",
+   "ATHLETE": "Nataliya DOBRYNSKA",
+   "COUNTRY": "UKR",
+   "VENUE": "Ataköy Arena, Istanbul (TUR)",
+   "Latitude": 40.9808541,
+   "Longitude": 28.856793,
+   "DATE": "09 MAR 2012"
+ },
+ {
+   "EVENT": "Pentathlon",
+   "MARK": "5055 *(i)",
+   "ATHLETE": "Nafissatou THIAM",
+   "COUNTRY": "BEL",
+   "VENUE": "Ataköy Arena, Istanbul (TUR)",
+   "Latitude": 40.9808541,
+   "Longitude": 28.856793,
+   "DATE": "03 MAR 2023"
+ },
+ {
+   "EVENT": "3000 Metres Race Walk",
+   "MARK": "11:40.33 (i)",
+   "ATHLETE": "Claudia IOVAN",
+   "COUNTRY": "ROU",
+   "VENUE": "Bucureşti (ROU)",
+   "Latitude": 44.4267674,
+   "Longitude": 26.1025384,
+   "DATE": "30 JAN 1999"
+ },
+ {
+   "EVENT": "4x200 Metres Relay",
+   "MARK": "1:32.41 (i)",
+   "ATHLETE": "Russia",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x400 Metres Relay",
+   "MARK": "3:23.37 (i)",
+   "ATHLETE": "Russia",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x800 Metres Relay",
+   "MARK": "8:05.89 (i)",
+   "ATHLETE": "United States",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "100 Metres",
+   "MARK": "9.58",
+   "ATHLETE": "Usain BOLT",
+   "COUNTRY": "JAM",
+   "VENUE": "Olympiastadion, Berlin (GER)",
+   "Latitude": 52.5146971,
+   "Longitude": 13.2394986,
+   "DATE": "16 AUG 2009"
+ },
+ {
+   "EVENT": "200 Metres",
+   "MARK": "19.19",
+   "ATHLETE": "Usain BOLT",
+   "COUNTRY": "JAM",
+   "VENUE": "Olympiastadion, Berlin (GER)",
+   "Latitude": 52.5146971,
+   "Longitude": 13.2394986,
+   "DATE": "20 AUG 2009"
+ },
+ {
+   "EVENT": "400 Metres",
+   "MARK": "43.03",
+   "ATHLETE": "Wayde VAN NIEKERK",
+   "COUNTRY": "RSA",
+   "VENUE": "Estádio Olímpico, Rio de Janeiro (BRA)",
+   "Latitude": -22.8932749,
+   "Longitude": -43.2923128,
+   "DATE": "14 AUG 2016"
+ },
+ {
+   "EVENT": "800 Metres",
+   "MARK": "1:40.91",
+   "ATHLETE": "David RUDISHA",
+   "COUNTRY": "KEN",
+   "VENUE": "Olympic Stadium, London (GBR)",
+   "Latitude": 51.5386705,
+   "Longitude": -0.0164537,
+   "DATE": "09 AUG 2012"
+ },
+ {
+   "EVENT": "1000 Metres",
+   "MARK": "2:11.96",
+   "ATHLETE": "Noah NGENY",
+   "COUNTRY": "KEN",
+   "VENUE": "Rieti (ITA)",
+   "Latitude": 42.404509,
+   "Longitude": 12.8567281,
+   "DATE": "05 SEP 1999"
+ },
+ {
+   "EVENT": "1500 Metres",
+   "MARK": "3:26.00",
+   "ATHLETE": "Hicham EL GUERROUJ",
+   "COUNTRY": "MAR",
+   "VENUE": "Stadio Olimpico, Roma (ITA)",
+   "Latitude": 41.9339383,
+   "Longitude": 12.4547979,
+   "DATE": "14 JUL 1998"
+ },
+ {
+   "EVENT": "One Mile",
+   "MARK": "3:43.13",
+   "ATHLETE": "Hicham EL GUERROUJ",
+   "COUNTRY": "MAR",
+   "VENUE": "Stadio Olimpico, Roma (ITA)",
+   "Latitude": 41.9339383,
+   "Longitude": 12.4547979,
+   "DATE": "07 JUL 1999"
+ },
+ {
+   "EVENT": "2000 Metres",
+   "MARK": "4:44.79",
+   "ATHLETE": "Hicham EL GUERROUJ",
+   "COUNTRY": "MAR",
+   "VENUE": "Olympiastadion, Berlin (GER)",
+   "Latitude": 52.5146971,
+   "Longitude": 13.2394986,
+   "DATE": "07 SEP 1999"
+ },
+ {
+   "EVENT": "3000 Metres",
+   "MARK": "7:20.67",
+   "ATHLETE": "Daniel KOMEN",
+   "COUNTRY": "KEN",
+   "VENUE": "Rieti (ITA)",
+   "Latitude": 42.404509,
+   "Longitude": 12.8567281,
+   "DATE": "01 SEP 1996"
+ },
+ {
+   "EVENT": "5000 Metres",
+   "MARK": "12:35.36",
+   "ATHLETE": "Joshua CHEPTEGEI",
+   "COUNTRY": "UGA",
+   "VENUE": "Stade Louis II, Monaco (MON)",
+   "Latitude": 43.7275817,
+   "Longitude": 7.4156038,
+   "DATE": "14 AUG 2020"
+ },
+ {
+   "EVENT": "5 Kilometres",
+   "MARK": "12:49",
+   "ATHLETE": "Berihu AREGAWI",
+   "COUNTRY": "ETH",
+   "VENUE": "Barcelona (ESP)",
+   "Latitude": 41.3873974,
+   "Longitude": 2.168568,
+   "DATE": "31 DEC 2021"
+ },
+ {
+   "EVENT": "10,000 Metres",
+   "MARK": "26:11.00",
+   "ATHLETE": "Joshua CHEPTEGEI",
+   "COUNTRY": "UGA",
+   "VENUE": "Estadio de Atletismo del Turia, Valencia (ESP)",
+   "Latitude": 39.47721,
+   "Longitude": -0.39313,
+   "DATE": "07 OCT 2020"
+ },
+ {
+   "EVENT": "10 Kilometres",
+   "MARK": "26:24",
+   "ATHLETE": "Rhonex KIPRUTO",
+   "COUNTRY": "KEN",
+   "VENUE": "Valencia (ESP)",
+   "Latitude": 39.4699075,
+   "Longitude": -0.3762881,
+   "DATE": "12 JAN 2020"
+ },
+ {
+   "EVENT": "One Hour",
+   "MARK": "21330",
+   "ATHLETE": "Mo FARAH",
+   "COUNTRY": "GBR",
+   "VENUE": "Boudewijnstadion, Bruxelles (BEL)",
+   "Latitude": 50.8957028,
+   "Longitude": 4.3340679,
+   "DATE": "04 SEP 2020"
+ },
+ {
+   "EVENT": "Half Marathon",
+   "MARK": "57:31",
+   "ATHLETE": "Jacob KIPLIMO",
+   "COUNTRY": "UGA",
+   "VENUE": "Lisboa (POR)",
+   "Latitude": 38.7222524,
+   "Longitude": -9.1393366,
+   "DATE": "21 NOV 2021"
+ },
+ {
+   "EVENT": "Marathon",
+   "MARK": "2:01:09",
+   "ATHLETE": "Eliud KIPCHOGE",
+   "COUNTRY": "KEN",
+   "VENUE": "Berlin (GER)",
+   "Latitude": 52.5200066,
+   "Longitude": 13.404954,
+   "DATE": "25 SEP 2022"
+ },
+ {
+   "EVENT": "50 Kilometres",
+   "MARK": "2:40:13",
+   "ATHLETE": "Stephen MOKOKA",
+   "COUNTRY": "RSA",
+   "VENUE": "Gqeberha (RSA)",
+   "Latitude": -33.9608369,
+   "Longitude": 25.6022423,
+   "DATE": "06 MAR 2022"
+ },
+ {
+   "EVENT": "50 Kilometres",
+   "MARK": "2:38:43 *",
+   "ATHLETE": "CJ ALBERTSON",
+   "COUNTRY": "USA",
+   "VENUE": "San Francisco, CA (USA)",
+   "Latitude": 37.7749295,
+   "Longitude": -122.4194155,
+   "DATE": "08 OCT 2022"
+ },
+ {
+   "EVENT": "100 Kilometres",
+   "MARK": "6:09:14",
+   "ATHLETE": "Nao KAZAMI",
+   "COUNTRY": "JPN",
+   "VENUE": "Lake Saroma (JPN)",
+   "Latitude": 44.1312174,
+   "Longitude": 143.8024769,
+   "DATE": "24 JUN 2018"
+ },
+ {
+   "EVENT": "100 Kilometres",
+   "MARK": "6:05:35 *",
+   "ATHLETE": "Aleksandr SOROKIN",
+   "COUNTRY": "LTU",
+   "VENUE": "Vilnius (LTU)",
+   "Latitude": 54.6871555,
+   "Longitude": 25.2796514,
+   "DATE": "14 MAY 2023"
+ },
+ {
+   "EVENT": "3000 Metres Steeplechase",
+   "MARK": "7:53.63",
+   "ATHLETE": "Saif Saaeed SHAHEEN",
+   "COUNTRY": "QAT",
+   "VENUE": "Boudewijnstadion, Bruxelles (BEL)",
+   "Latitude": 50.8957028,
+   "Longitude": 4.3340679,
+   "DATE": "03 SEP 2004"
+ },
+ {
+   "EVENT": "110 Metres Hurdles",
+   "MARK": "12.80",
+   "ATHLETE": "Aries MERRITT",
+   "COUNTRY": "USA",
+   "VENUE": "Boudewijnstadion, Bruxelles (BEL)",
+   "Latitude": 50.8957028,
+   "Longitude": 4.3340679,
+   "DATE": "07 SEP 2012"
+ },
+ {
+   "EVENT": "400 Metres Hurdles",
+   "MARK": "45.94",
+   "ATHLETE": "Karsten WARHOLM",
+   "COUNTRY": "NOR",
+   "VENUE": "National Stadium, Tokyo (JPN)",
+   "Latitude": 35.6778241,
+   "Longitude": 139.7145409,
+   "DATE": "03 AUG 2021"
+ },
+ {
+   "EVENT": "High Jump",
+   "MARK": "2.45",
+   "ATHLETE": "Javier SOTOMAYOR",
+   "COUNTRY": "CUB",
+   "VENUE": "Salamanca (ESP)",
+   "Latitude": 40.9701039,
+   "Longitude": -5.6635397,
+   "DATE": "27 JUL 1993"
+ },
+ {
+   "EVENT": "Pole Vault",
+   "MARK": "6.22 (i)",
+   "ATHLETE": "Armand DUPLANTIS",
+   "COUNTRY": "SWE",
+   "VENUE": "Maison des Sports, Clermont-Ferrand (FRA)",
+   "Latitude": 45.7859628,
+   "Longitude": 3.0864509,
+   "DATE": "25 FEB 2023"
+ },
+ {
+   "EVENT": "Long Jump",
+   "MARK": "8.95",
+   "ATHLETE": "Mike POWELL",
+   "COUNTRY": "USA",
+   "VENUE": "National Stadium, Tokyo (JPN)",
+   "Latitude": 35.6778241,
+   "Longitude": 139.7145409,
+   "DATE": "30 AUG 1991"
+ },
+ {
+   "EVENT": "Triple Jump",
+   "MARK": "18.29",
+   "ATHLETE": "Jonathan EDWARDS",
+   "COUNTRY": "GBR",
+   "VENUE": "Ullevi Stadium, Göteborg (SWE)",
+   "Latitude": 57.7059006,
+   "Longitude": 11.9873108,
+   "DATE": "07 AUG 1995"
+ },
+ {
+   "EVENT": "Shot Put",
+   "MARK": "23.37",
+   "ATHLETE": "Ryan CROUSER",
+   "COUNTRY": "USA",
+   "VENUE": "Hayward Field, Eugene, OR (USA)",
+   "Latitude": 44.0424068,
+   "Longitude": -123.070692,
+   "DATE": "18 JUN 2021"
+ },
+ {
+   "EVENT": "Shot Put",
+   "MARK": "23.56 *",
+   "ATHLETE": "Ryan CROUSER",
+   "COUNTRY": "USA",
+   "VENUE": "Drake Stadium, Los Angeles, CA (USA)",
+   "Latitude": 34.071966,
+   "Longitude": -118.4485221,
+   "DATE": "27 MAY 2023"
+ },
+ {
+   "EVENT": "Discus Throw",
+   "MARK": "74.08",
+   "ATHLETE": "Jürgen SCHULT",
+   "COUNTRY": "GDR",
+   "VENUE": "Neubrandenburg (GDR)",
+   "Latitude": 53.5678292,
+   "Longitude": 13.2779269,
+   "DATE": "06 JUN 1986"
+ },
+ {
+   "EVENT": "Hammer Throw",
+   "MARK": "86.74",
+   "ATHLETE": "Yuriy SEDYKH",
+   "COUNTRY": "URS",
+   "VENUE": "Neckarstadion, Stuttgart (GER)",
+   "Latitude": 48.7922577,
+   "Longitude": 9.23208,
+   "DATE": "30 AUG 1986"
+ },
+ {
+   "EVENT": "Javelin Throw",
+   "MARK": "98.48",
+   "ATHLETE": "Jan ŽELEZNÝ",
+   "COUNTRY": "CZE",
+   "VENUE": "Jena (GER)",
+   "Latitude": 50.927054,
+   "Longitude": 11.5892372,
+   "DATE": "25 MAY 1996"
+ },
+ {
+   "EVENT": "Decathlon",
+   "MARK": "9126",
+   "ATHLETE": "Kevin MAYER",
+   "COUNTRY": "FRA",
+   "VENUE": "Stade Pierre Paul Bernard, Talence (FRA)",
+   "Latitude": 44.7916034,
+   "Longitude": -0.5977913,
+   "DATE": "16 SEP 2018"
+ },
+ {
+   "EVENT": "20,000 Metres Race Walk",
+   "MARK": "1:17:25.6h",
+   "ATHLETE": "Bernardo SEGURA",
+   "COUNTRY": "MEX",
+   "VENUE": "Fana (NOR)",
+   "Latitude": 60.2630972,
+   "Longitude": 5.3452521,
+   "DATE": "07 MAY 1994"
+ },
+ {
+   "EVENT": "20 Kilometres Race Walk",
+   "MARK": "1:16:36",
+   "ATHLETE": "Yusuke SUZUKI",
+   "COUNTRY": "JPN",
+   "VENUE": "Nomi (JPN)",
+   "Latitude": 36.4468791,
+   "Longitude": 136.5540708,
+   "DATE": "15 MAR 2015"
+ },
+ {
+   "EVENT": "30,000 Metres Race Walk",
+   "MARK": "2:01:44.1h",
+   "ATHLETE": "Maurizio DAMILANO",
+   "COUNTRY": "ITA",
+   "VENUE": "Cuneo (ITA)",
+   "Latitude": 44.3844766,
+   "Longitude": 7.5426711,
+   "DATE": "03 OCT 1992"
+ },
+ {
+   "EVENT": "50,000 Metres Race Walk",
+   "MARK": "3:35:27.2h",
+   "ATHLETE": "Yohann DINIZ",
+   "COUNTRY": "FRA",
+   "VENUE": "Reims (FRA)",
+   "Latitude": 49.258329,
+   "Longitude": 4.031696,
+   "DATE": "12 MAR 2011"
+ },
+ {
+   "EVENT": "50 Kilometres Race Walk",
+   "MARK": "3:32:33",
+   "ATHLETE": "Yohann DINIZ",
+   "COUNTRY": "FRA",
+   "VENUE": "Letzigrund, Zürich (SUI)",
+   "Latitude": 47.3826664,
+   "Longitude": 8.5038076,
+   "DATE": "15 AUG 2014"
+ },
+ {
+   "EVENT": "4x100 Metres Relay",
+   "MARK": "36.84",
+   "ATHLETE": "Jamaica",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x200 Metres Relay",
+   "MARK": "1:18.63",
+   "ATHLETE": "Jamaica",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x400 Metres Relay",
+   "MARK": "2:54.29",
+   "ATHLETE": "United States",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x800 Metres Relay",
+   "MARK": "7:02.43",
+   "ATHLETE": "Kenya",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x1500 Metres Relay",
+   "MARK": "14:22.22",
+   "ATHLETE": "Kenya",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "Road Relay",
+   "MARK": "1:57:06",
+   "ATHLETE": "Kenya",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "Distance Medley Relay",
+   "MARK": "9:15.50",
+   "ATHLETE": "United States",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "50 Metres",
+   "MARK": "5.56 (i)",
+   "ATHLETE": "Donovan BAILEY",
+   "COUNTRY": "CAN",
+   "VENUE": "Reno, NV (USA)",
+   "Latitude": 39.529919,
+   "Longitude": -119.8142691,
+   "DATE": "09 FEB 1996"
+ },
+ {
+   "EVENT": "60 Metres",
+   "MARK": "6.34 (i)",
+   "ATHLETE": "Christian COLEMAN",
+   "COUNTRY": "USA",
+   "VENUE": "Albuquerque, NM (USA)",
+   "Latitude": 35.0843859,
+   "Longitude": -106.650422,
+   "DATE": "18 FEB 2018"
+ },
+ {
+   "EVENT": "200 Metres",
+   "MARK": "19.92 (i)",
+   "ATHLETE": "Frank FREDERICKS",
+   "COUNTRY": "NAM",
+   "VENUE": "Liévin (FRA)",
+   "Latitude": 50.417921,
+   "Longitude": 2.775222,
+   "DATE": "18 FEB 1996"
+ },
+ {
+   "EVENT": "400 Metres",
+   "MARK": "44.57 (i)",
+   "ATHLETE": "Kerron CLEMENT",
+   "COUNTRY": "USA",
+   "VENUE": "Fayetteville, AR (USA)",
+   "Latitude": 36.0626579,
+   "Longitude": -94.1605839,
+   "DATE": "12 MAR 2005"
+ },
+ {
+   "EVENT": "800 Metres",
+   "MARK": "1:42.67 (i)",
+   "ATHLETE": "Wilson KIPKETER",
+   "COUNTRY": "DEN",
+   "VENUE": "Palais Omnisports de Paris-Bercy, Paris (FRA)",
+   "Latitude": 48.8385379,
+   "Longitude": 2.3785842,
+   "DATE": "09 MAR 1997"
+ },
+ {
+   "EVENT": "1000 Metres",
+   "MARK": "2:14.20 (i)",
+   "ATHLETE": "Ayanleh SOULEIMAN",
+   "COUNTRY": "DJI",
+   "VENUE": "Globe Arena, Stockholm (SWE)",
+   "Latitude": 59.2935725,
+   "Longitude": 18.0835501,
+   "DATE": "17 FEB 2016"
+ },
+ {
+   "EVENT": "1500 Metres",
+   "MARK": "3:30.60 (i)",
+   "ATHLETE": "Jakob INGEBRIGTSEN",
+   "COUNTRY": "NOR",
+   "VENUE": "Arena Stade Couvert, Liévin (FRA)",
+   "Latitude": 50.4109912,
+   "Longitude": 2.765853,
+   "DATE": "17 FEB 2022"
+ },
+ {
+   "EVENT": "One Mile",
+   "MARK": "3:47.01 (i)",
+   "ATHLETE": "Yomif KEJELCHA",
+   "COUNTRY": "ETH",
+   "VENUE": "Boston, MA (USA)",
+   "Latitude": 42.3600825,
+   "Longitude": -71.0588801,
+   "DATE": "03 MAR 2019"
+ },
+ {
+   "EVENT": "3000 Metres",
+   "MARK": "7:24.90 (i)",
+   "ATHLETE": "Daniel KOMEN",
+   "COUNTRY": "KEN",
+   "VENUE": "Budapest (HUN)",
+   "Latitude": 47.497912,
+   "Longitude": 19.040235,
+   "DATE": "06 FEB 1998"
+ },
+ {
+   "EVENT": "3000 Metres",
+   "MARK": "7:23.81 *(i)",
+   "ATHLETE": "Lamecha GIRMA",
+   "COUNTRY": "ETH",
+   "VENUE": "Arena Stade Couvert, Liévin (FRA)",
+   "Latitude": 50.4109912,
+   "Longitude": 2.765853,
+   "DATE": "15 FEB 2023"
+ },
+ {
+   "EVENT": "5000 Metres",
+   "MARK": "12:49.60 (i)",
+   "ATHLETE": "Kenenisa BEKELE",
+   "COUNTRY": "ETH",
+   "VENUE": "National Indoor Arena, Birmingham (GBR)",
+   "Latitude": 52.479777,
+   "Longitude": -1.915044,
+   "DATE": "20 FEB 2004"
+ },
+ {
+   "EVENT": "50 Metres Hurdles",
+   "MARK": "6.25 (i)",
+   "ATHLETE": "Mark MCKOY",
+   "COUNTRY": "CAN",
+   "VENUE": "Kobe (JPN)",
+   "Latitude": 34.6900806,
+   "Longitude": 135.1956311,
+   "DATE": "05 MAR 1986"
+ },
+ {
+   "EVENT": "60 Metres Hurdles",
+   "MARK": "7.29 (i)",
+   "ATHLETE": "Grant HOLLOWAY",
+   "COUNTRY": "USA",
+   "VENUE": "Gallur, Madrid (ESP)",
+   "Latitude": 40.3982114,
+   "Longitude": -3.7391426,
+   "DATE": "24 FEB 2021"
+ },
+ {
+   "EVENT": "60 Metres Hurdles",
+   "MARK": "7.29 (i)",
+   "ATHLETE": "Grant HOLLOWAY",
+   "COUNTRY": "USA",
+   "VENUE": "Štark Arena, Beograd (SRB)",
+   "Latitude": 44.8141461,
+   "Longitude": 20.4212894,
+   "DATE": "20 MAR 2022"
+ },
+ {
+   "EVENT": "High Jump",
+   "MARK": "2.43 (i)",
+   "ATHLETE": "Javier SOTOMAYOR",
+   "COUNTRY": "CUB",
+   "VENUE": "Budapest Sportcsarnok, Budapest (HUN)",
+   "Latitude": 47.5018695,
+   "Longitude": 19.1057073,
+   "DATE": "04 MAR 1989"
+ },
+ {
+   "EVENT": "Long Jump",
+   "MARK": "8.79 (i)",
+   "ATHLETE": "Carl LEWIS",
+   "COUNTRY": "USA",
+   "VENUE": "New York, NY (USA)",
+   "Latitude": 40.7127753,
+   "Longitude": -74.0059728,
+   "DATE": "27 JAN 1984"
+ },
+ {
+   "EVENT": "Triple Jump",
+   "MARK": "18.07 (i)",
+   "ATHLETE": "Hugues Fabrice ZANGO",
+   "COUNTRY": "BUR",
+   "VENUE": "Stadium Jean-Pellez, Aubiére (FRA)",
+   "Latitude": 45.7578995,
+   "Longitude": 3.1069021,
+   "DATE": "16 JAN 2021"
+ },
+ {
+   "EVENT": "Shot Put",
+   "MARK": "22.82 (i)",
+   "ATHLETE": "Ryan CROUSER",
+   "COUNTRY": "USA",
+   "VENUE": "Randal Tyson Indoor Center, Fayetteville, AR (USA)",
+   "Latitude": 36.0497746,
+   "Longitude": -94.1843307,
+   "DATE": "24 JAN 2021"
+ },
+ {
+   "EVENT": "Heptathlon",
+   "MARK": "6645 (i)",
+   "ATHLETE": "Ashton EATON",
+   "COUNTRY": "USA",
+   "VENUE": "Ataköy Arena, Istanbul (TUR)",
+   "Latitude": 40.9808541,
+   "Longitude": 28.856793,
+   "DATE": "10 MAR 2012"
+ },
+ {
+   "EVENT": "5000 Metres Race Walk",
+   "MARK": "18:07.08 (i)",
+   "ATHLETE": "Mikhail SHCHENNIKOV",
+   "COUNTRY": "RUS",
+   "VENUE": "Moskva (RUS)",
+   "Latitude": 55.755826,
+   "Longitude": 37.6173,
+   "DATE": "14 FEB 1995"
+ },
+ {
+   "EVENT": "4x200 Metres Relay",
+   "MARK": "1:22.11 (i)",
+   "ATHLETE": "Great Britain & NI",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x400 Metres Relay",
+   "MARK": "3:01.51 (i)",
+   "ATHLETE": "Houston",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x800 Metres Relay",
+   "MARK": "7:11.30 (i)",
+   "ATHLETE": "HOKA NJ / NY TC",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ },
+ {
+   "EVENT": "4x400 Metres Relay Mixed",
+   "MARK": "3:09.34",
+   "ATHLETE": "United States",
+   "COUNTRY": "",
+   "VENUE": "",
+   "Latitude": null,
+   "Longitude": null,
+   "DATE": ""
+ }
+]
