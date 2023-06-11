@@ -16,6 +16,10 @@ Web map showing the locations of the top ten performances in each Athletics even
 **v1.1 Add Basic Functionality**
 - Add detailed information about the mark upon click
 - Add a filter by event function
+- Change default zoom location
+- Map Background color
+- Add user control buttons
+- Make good looking css
 
 **v1.2 Make Accessable**
 - Host on Google
