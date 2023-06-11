@@ -16,9 +16,30 @@
 
     <body>
         <div id="sidebar">
-            <div id="title"></div>
+            <div id="title"><h2>Athletics World Records</h2></div>
+            <div id="filter">
+                <h3>Filters:</h3>
+                <p>Sex:</p>
+                <div class="filter-option">
+                    <input type="checkbox" id="male"></input>
+                    <label type="checkbox" for="male">Men</label>
+                </div>
+                <div class="filter-option">
+                    <input type="checkbox" id="female"></input>
+                    <label type="checkbox" for="female">Women</label>
+                </div>
+                <p>Season:</p>
+                <div class="filter-option">
+                    <input type="checkbox" id="outdoor"></input>
+                    <label type="checkbox" for="outdoor">Outdoor</label>
+                </div>
+                <div class="filter-option">
+                    <input type="checkbox" id="indoor"></input>
+                    <label type="checkbox" for="indoor">Indoor</label>
+                </div>
+            </div>
             <div id="data">
-                <h2>Data Sources:</h2>
+                <h3>Data Sources:</h3>
                 <p><a href="https://worldathletics.org/records/by-category/world-records">World Athletics</a></p>
             </div>
         </div>
