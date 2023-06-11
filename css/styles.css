@@ -3,3 +3,84 @@
 * trackingRecords v1.0
 * CSS file to do the minimal formatting I do
 */
+/**
+  CSS for index.html
+**/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 30%;
+    width: 70%;
+}
+
+#sidebar {
+    top: 0;
+    bottom: 0;
+    width: 30%;
+    position: fixed;
+}
+
+#sidebar div {
+    padding: 10px;
+    margin: 10px;
+}
+
+#title {
+    text-align: center;
+}
+
+#record-info {
+    box-shadow: 0 1px 2px rgb(60 64 67 / 30%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+    background: white;
+    position: absolute;
+    top: calc(100% - 90%);
+    left: 30%;
+    padding: 10px;
+    margin: 10px;
+    bottom: 10%;
+    width: 20%;
+    overflow-y: scroll;
+}
+
+.hidden {
+    display: none;
+}
+
+/**
+   BELOW IS FOR A MOBILE DEVICE
+**/
+@media screen and (max-width: 900px) {
+    #sidebar {
+        position: absolute;
+        width: auto;
+        background: white;
+        top: 0;
+        bottom: auto;
+    }
+
+    #map {
+        width: 100%;
+        left: 0%;
+    }
+
+    #record-info {
+        box-shadow: 0 1px 2px rgb(60 64 67 / 30%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+        background: white;
+        position: absolute;
+        top: 70%;
+        padding: 10px;
+        margin: 10px;
+        left: 0%;
+        bottom: 3%;
+        width: auto;
+        overflow-y: scroll;
+    }
+}
