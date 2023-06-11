@@ -81,10 +81,10 @@
         // TODO: MAKE PRETTY W CSS
         const recordInfo = document.getElementById('record-info');
         recordInfo.classList.remove('hidden');
-        document.getElementById('event').innerText = data['event'];
-        document.getElementById('athlete').innerText = data['athlete'];
-        document.getElementById('mark').innerText = data['mark'];
-        document.getElementById('date').innerText = data['date'];
+        document.getElementById('event').innerText = data['Event'];
+        document.getElementById('athlete').innerText = data['Athlete'];
+        document.getElementById('mark').innerText = data['Mark'];
+        document.getElementById('date').innerText = data['Date'];
     }
 
     // Changes DOM to fit mobile screens better
