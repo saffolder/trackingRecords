@@ -12,13 +12,13 @@
     mapboxgl.accessToken = 'pk.eyJ1Ijoic2FtYWZmb2xkZXIiLCJhIjoiY2wyam9oZmhrMDZhMzNlbzN5MmludTR1aiJ9.vhUMvam1aTt6ygnJsYLpiQ';
 
     async function geojsonFetch() {
-        // TODO: get my csv into geojson format
         // load in the geojson data
         let response = await fetch('data/recordData01.geojson');
         let recordLocations = await response.json();
 
         map.on('load', () => {
         // Draw the locations of the records
+        // TODO: give specific types depending on the event
             map.addLayer({
                 id: 'record-layer',
                 type: 'circle',
@@ -33,7 +33,10 @@
             });
         });
 
-        const popup = new mapboxgl.Popup();
+        const popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false
+        });
 
         // add listener for when you hover over a record
         map.on('mousemove', (e) => {
@@ -47,10 +50,7 @@
             }
 
             const feature = features[0];
-            // ngl dont know what setHtml means
-            // TODO: setHTML is prolly important ngl
-            popup.setLngLat(feature.geometry.coordinates).setHTML('recordLoc').addTo(map);
-
+            popup.setLngLat(feature.geometry.coordinates).setHTML(feature.properties.Event).addTo(map);
             map.getCanvas().style.cursor = 'pointer';
         });
 
@@ -66,10 +66,9 @@
 
             const recordFeature = recordFeatures[0];
 
-            // TODO: check the zoom level
             map.flyTo({
-            center: recordFeature.geometry.coordinates,
-            zoom: 12
+                center: recordFeature.geometry.coordinates,
+                zoom: 10
             });
 
             summarizeRecord(recordFeature.properties);
@@ -79,6 +78,7 @@
     // Populates the sidebar with information regarding the record clicked on
     function summarizeRecord(data) {
         // TODO: MAKE PRETTY W CSS
+        // TODO: create more data fields
         const recordInfo = document.getElementById('record-info');
         recordInfo.classList.remove('hidden');
         document.getElementById('event').innerText = data['Event'];
@@ -106,17 +106,25 @@
     // Initializing function called after the DOM is loaded in
     function init() {
         map = new mapboxgl.Map({
-            container: 'map', // container ID
-            style: 'mapbox://styles/samaffolder/cl2jvuxtg003i14l26mtl63h6', // TODO: change style
-            center: [-122.3, 47.62], // Centered on Seattle TODO: change center
-            zoom: 10.5 // TODO: change zoom
+            container: 'map',
+            style: 'mapbox://styles/mapbox/light-v11',
+            center: [0, 0],
+            zoom: 1
         });
+
+        map.addControl(new mapboxgl.NavigationControl());
+
         document.getElementById('remove').addEventListener('click', () => {
+            map.flyTo({
+                zoom: 3
+            });
             document.getElementById('record-info').classList.add('hidden');
         });
+
         window.addEventListener('resize', () => {
             fitToScreen();
         });
+
         fitToScreen();
         geojsonFetch();
     }
