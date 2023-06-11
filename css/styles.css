@@ -13,6 +13,7 @@ body {
 }
 
 #map {
+    /* TODO: move the position of map controls*/
     position: absolute;
     z-index: -1;
     top: 0;
@@ -29,9 +30,10 @@ body {
 }
 
 #sidebar div {
-    padding: 10px;
+    /*padding: 10px;*/
     margin: 10px;
 }
+/* TODO: add in section that makes the filters section pretty*/
 
 #title {
     text-align: center;
@@ -47,7 +49,7 @@ body {
     margin: 10px;
     bottom: 10%;
     width: 20%;
-    overflow-y: scroll;
+    /*overflow-y: scroll; TODO: ADD BACK IN IF NEEDED*/
 }
 
 .hidden {
